@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.40674dae.chunk.css",
-    "main.js": "./static/js/main.e2d4d846.chunk.js",
-    "main.js.map": "./static/js/main.e2d4d846.chunk.js.map",
+    "main.css": "./static/css/main.b2ae97cf.chunk.css",
+    "main.js": "./static/js/main.07628e54.chunk.js",
+    "main.js.map": "./static/js/main.07628e54.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a51deb50.js",
     "runtime-main.js.map": "./static/js/runtime-main.a51deb50.js.map",
-    "static/js/2.df052ade.chunk.js": "./static/js/2.df052ade.chunk.js",
-    "static/js/2.df052ade.chunk.js.map": "./static/js/2.df052ade.chunk.js.map",
+    "static/js/2.c8d46035.chunk.js": "./static/js/2.c8d46035.chunk.js",
+    "static/js/2.c8d46035.chunk.js.map": "./static/js/2.c8d46035.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.92704bdf44e0616e836ed5ffc4416359.js": "./precache-manifest.92704bdf44e0616e836ed5ffc4416359.js",
+    "precache-manifest.36f0d1dd5a3dfd0119f8e9e579bd7dbb.js": "./precache-manifest.36f0d1dd5a3dfd0119f8e9e579bd7dbb.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.40674dae.chunk.css.map": "./static/css/main.40674dae.chunk.css.map",
-    "static/js/2.df052ade.chunk.js.LICENSE.txt": "./static/js/2.df052ade.chunk.js.LICENSE.txt",
+    "static/css/main.b2ae97cf.chunk.css.map": "./static/css/main.b2ae97cf.chunk.css.map",
+    "static/js/2.c8d46035.chunk.js.LICENSE.txt": "./static/js/2.c8d46035.chunk.js.LICENSE.txt",
     "static/media/index.scss": "./static/media/NEXTMonoPan-Thin.cf7cafc5.otf",
     "static/media/App.scss": "./static/media/TimesNow-SemiLight.ecdf1c9f.otf",
     "static/media/arrow-black.svg": "./static/media/arrow-black.a51dcbe8.svg",
     "static/media/arrow-grey.svg": "./static/media/arrow-grey.d3f5960e.svg",
     "static/media/arrow-white.svg": "./static/media/arrow-white.96831bea.svg",
+    "static/media/CardComponent.scss": "./static/media/bg-texture.bc14c489.png",
     "static/media/drop-down.svg": "./static/media/drop-down.d9213db9.svg",
     "static/media/img-white-gold-earring.png": "./static/media/img-white-gold-earring.2018785e.png",
     "static/media/img-white-gold-necklace.png": "./static/media/img-white-gold-necklace.60ddea61.png",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a51deb50.js",
-    "static/js/2.df052ade.chunk.js",
-    "static/css/main.40674dae.chunk.css",
-    "static/js/main.e2d4d846.chunk.js"
+    "static/js/2.c8d46035.chunk.js",
+    "static/css/main.b2ae97cf.chunk.css",
+    "static/js/main.07628e54.chunk.js"
   ]
 }
