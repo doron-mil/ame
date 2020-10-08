@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.42418214.chunk.css",
-    "main.js": "./static/js/main.a8898e20.chunk.js",
-    "main.js.map": "./static/js/main.a8898e20.chunk.js.map",
+    "main.css": "./static/css/main.df5eacb0.chunk.css",
+    "main.js": "./static/js/main.55d3c5df.chunk.js",
+    "main.js.map": "./static/js/main.55d3c5df.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a51deb50.js",
     "runtime-main.js.map": "./static/js/runtime-main.a51deb50.js.map",
-    "static/js/2.0a447398.chunk.js": "./static/js/2.0a447398.chunk.js",
-    "static/js/2.0a447398.chunk.js.map": "./static/js/2.0a447398.chunk.js.map",
+    "static/js/2.134b91ad.chunk.js": "./static/js/2.134b91ad.chunk.js",
+    "static/js/2.134b91ad.chunk.js.map": "./static/js/2.134b91ad.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b3c07ca5d156977d9a4a1e6471909615.js": "./precache-manifest.b3c07ca5d156977d9a4a1e6471909615.js",
+    "precache-manifest.d5330f5751d10cfe85631a846b30f189.js": "./precache-manifest.d5330f5751d10cfe85631a846b30f189.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.42418214.chunk.css.map": "./static/css/main.42418214.chunk.css.map",
-    "static/js/2.0a447398.chunk.js.LICENSE.txt": "./static/js/2.0a447398.chunk.js.LICENSE.txt",
+    "static/css/main.df5eacb0.chunk.css.map": "./static/css/main.df5eacb0.chunk.css.map",
+    "static/js/2.134b91ad.chunk.js.LICENSE.txt": "./static/js/2.134b91ad.chunk.js.LICENSE.txt",
     "static/media/index.scss": "./static/media/NEXTMonoPan-Thin.cf7cafc5.otf",
     "static/media/App.scss": "./static/media/TimesNow-SemiLight.ecdf1c9f.otf",
     "static/media/arrow-black.svg": "./static/media/arrow-black.a51dcbe8.svg",
@@ -25,6 +25,7 @@
     "static/media/img-yellow-gold-necklace.png": "./static/media/img-yellow-gold-necklace.76f7bc70.png",
     "static/media/MorsePage.scss": "./static/media/model-5.c93be2f9.png",
     "static/media/model-earring-4sim.png": "./static/media/model-earring-4sim.a493fa38.png",
+    "static/media/model-earring-4sim2.png": "./static/media/model-earring-4sim2.347634a6.png",
     "static/media/model-earring-two-4sim.png": "./static/media/model-earring-two-4sim.461f73fd.png",
     "static/media/model-earring-two.png": "./static/media/model-earring-two.d292ffa9.png",
     "static/media/model-earring.png": "./static/media/model-earring.b57c099a.png",
@@ -39,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a51deb50.js",
-    "static/js/2.0a447398.chunk.js",
-    "static/css/main.42418214.chunk.css",
-    "static/js/main.a8898e20.chunk.js"
+    "static/js/2.134b91ad.chunk.js",
+    "static/css/main.df5eacb0.chunk.css",
+    "static/js/main.55d3c5df.chunk.js"
   ]
 }
