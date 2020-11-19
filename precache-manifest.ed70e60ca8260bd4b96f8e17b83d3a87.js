@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7c615be0c400ac3885d9c8d04e72047",
+    "revision": "1e04331826e4d09155991b6387515cd8",
     "url": "./index.html"
   },
   {
-    "revision": "0355772f3e0be70f9468",
-    "url": "./static/css/main.b09d3714.chunk.css"
+    "revision": "b115c56d937b2e888a18",
+    "url": "./static/css/main.268e166d.chunk.css"
   },
   {
-    "revision": "4327fd5f2c844ba27508",
-    "url": "./static/js/2.134b91ad.chunk.js"
+    "revision": "e2dc22d0b0ade10ea290",
+    "url": "./static/js/2.49d95ebf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "./static/js/2.134b91ad.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.49d95ebf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0355772f3e0be70f9468",
-    "url": "./static/js/main.fc54ce8b.chunk.js"
+    "revision": "b115c56d937b2e888a18",
+    "url": "./static/js/main.f6ef311d.chunk.js"
   },
   {
     "revision": "6aabda46e06a007ee952",
@@ -92,16 +92,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/img-white-gold-earring.2018785e.png"
   },
   {
-    "revision": "60ddea61fc05fa564decf8ab903c1e0e",
-    "url": "./static/media/img-white-gold-necklace.60ddea61.png"
+    "revision": "590f8bb9e664ce553f3e37a21f3776be",
+    "url": "./static/media/img-white-gold-necklace.590f8bb9.png"
   },
   {
     "revision": "f59eecc79fad8f7ad18ef47b608713f7",
     "url": "./static/media/img-yellow-gold-earring.f59eecc7.png"
   },
   {
-    "revision": "76f7bc708f5ddee9f27da3e4cc18f70d",
-    "url": "./static/media/img-yellow-gold-necklace.76f7bc70.png"
+    "revision": "81d174f724350b485e371e5e5973e262",
+    "url": "./static/media/img-yellow-gold-necklace.81d174f7.png"
   },
   {
     "revision": "ef7a9ec7e5a62532a40baf8f615fde5a",
@@ -112,36 +112,96 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/model-5.c93be2f9.png"
   },
   {
-    "revision": "a493fa382f324941f9de1806061e26c1",
-    "url": "./static/media/model-earring-4sim.a493fa38.png"
+    "revision": "d04ffc395b521744c19c9d2752ba56c5",
+    "url": "./static/media/model-earring-4sim-4edit.d04ffc39.png"
   },
   {
-    "revision": "347634a67e35de94fda877885ec1239f",
-    "url": "./static/media/model-earring-4sim2.347634a6.png"
+    "revision": "f80751464034f563bd7150ab67329cce",
+    "url": "./static/media/model-earring-4sim-4edit.f8075146.png"
   },
   {
-    "revision": "461f73fd765f064509c2d294c2509e06",
-    "url": "./static/media/model-earring-two-4sim.461f73fd.png"
+    "revision": "11b78645c54be5670146c5dd33d54bd0",
+    "url": "./static/media/model-earring-4sim.11b78645.png"
   },
   {
-    "revision": "d292ffa98eaaebdf569a5490d8440b7e",
-    "url": "./static/media/model-earring-two.d292ffa9.png"
+    "revision": "4c76387b97112fd8d1df3b4d8770a6ab",
+    "url": "./static/media/model-earring-4sim.4c76387b.png"
+  },
+  {
+    "revision": "68ddd5be8f29cdd8ccf861ed472eb847",
+    "url": "./static/media/model-earring.68ddd5be.png"
   },
   {
     "revision": "b57c099ad59834e0298ef317e75161f1",
     "url": "./static/media/model-earring.b57c099a.png"
   },
   {
-    "revision": "4ce31784b5afcd51cdff145b66b865f1",
-    "url": "./static/media/model-earrings-identical-4sim.4ce31784.png"
+    "revision": "0fb5f720322d38eef0efa44d5c3a9201",
+    "url": "./static/media/model-earrings-distinct-4sim-4edit.0fb5f720.png"
+  },
+  {
+    "revision": "cce6a6e4da3f5e9892b3be7b4870e2e1",
+    "url": "./static/media/model-earrings-distinct-4sim-4edit.cce6a6e4.png"
+  },
+  {
+    "revision": "a5594580aad8f7f3da3b422bc5c6aa34",
+    "url": "./static/media/model-earrings-distinct-4sim.a5594580.png"
+  },
+  {
+    "revision": "ff27327bf0db82087b3e8e3f219484cd",
+    "url": "./static/media/model-earrings-distinct-4sim.ff27327b.png"
+  },
+  {
+    "revision": "d292ffa98eaaebdf569a5490d8440b7e",
+    "url": "./static/media/model-earrings-distinct.d292ffa9.png"
+  },
+  {
+    "revision": "ea251231fdacac65e6780ff294116b0a",
+    "url": "./static/media/model-earrings-distinct.ea251231.png"
+  },
+  {
+    "revision": "1582b796bd85d63cbde6482a4bd98ca5",
+    "url": "./static/media/model-earrings-identical-4sim-4edit.1582b796.png"
+  },
+  {
+    "revision": "1f455d4ec42a9c75223b93cd07899382",
+    "url": "./static/media/model-earrings-identical-4sim-4edit.1f455d4e.png"
+  },
+  {
+    "revision": "6ea77ea508c716bfd144565022a54e62",
+    "url": "./static/media/model-earrings-identical-4sim.6ea77ea5.png"
+  },
+  {
+    "revision": "8b727547da768fa1ebec7a7a8dde763d",
+    "url": "./static/media/model-earrings-identical-4sim.8b727547.png"
   },
   {
     "revision": "161c5b0d39c474c8da4655de6e58ace6",
     "url": "./static/media/model-earrings-identical.161c5b0d.png"
   },
   {
-    "revision": "09ccf73a3942a1c303e21d872a24f503",
-    "url": "./static/media/model-necklace-4sim.09ccf73a.png"
+    "revision": "16bd914cf7d81416677971f6f4dad095",
+    "url": "./static/media/model-earrings-identical.16bd914c.png"
+  },
+  {
+    "revision": "aa1382cbf9fe0ea69b1f3bf753a5baa3",
+    "url": "./static/media/model-necklace-4sim-4edit.aa1382cb.png"
+  },
+  {
+    "revision": "d96ecd58403dfd41eb9f6918c12d3d1c",
+    "url": "./static/media/model-necklace-4sim-4edit.d96ecd58.png"
+  },
+  {
+    "revision": "54334d38994122ed498983e288c7e1ea",
+    "url": "./static/media/model-necklace-4sim.54334d38.png"
+  },
+  {
+    "revision": "d4c28466f823cac3d187137a1903aab9",
+    "url": "./static/media/model-necklace-4sim.d4c28466.png"
+  },
+  {
+    "revision": "07698e0652c066b3d71393420f1a1546",
+    "url": "./static/media/model-necklace.07698e06.png"
   },
   {
     "revision": "1c9cb5d43acfbff4b7f7d2e285f3feb8",
